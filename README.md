@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Mobile & Application Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **ECommerce Project**
+- 👯 I’m looking to collaborate on **Internship Oppertunity**
 
-- 💬 Ask me about **NodeJS, AdonisJS, ExpressJS, MySQL, MongoDB, RESTfull API's**
+- 💬 Ask me about **NodeJS, AdonisJS, ExpressJS, MySQL, PostgreSQL, MongoDB, RESTfull API's**
 
 - 📫 How to reach me **aroojchaudhary105@gmail.com**
 
