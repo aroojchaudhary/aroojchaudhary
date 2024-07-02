@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Mobile & Application Development**
+- 🌱 I’m currently learning **ExpressJS $ MonogoDB**
 
 - 👯 I’m looking to collaborate on **Internship Oppertunity**
 
