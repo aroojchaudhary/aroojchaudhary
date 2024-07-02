@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Internship Oppertunity**
 
-- 💬 Ask me about **NodeJS, AdonisJS, ExpressJS, MySQL, PostgreSQL, MongoDB, RESTfull API's**
+- 💬 Ask me about **NodeJS, AdonisJS, MySQL, PostgreSQL, RESTfull API's, JavaScript**
 
 - 📫 How to reach me **aroojchaudhary105@gmail.com**
 
